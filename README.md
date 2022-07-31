@@ -20,3 +20,6 @@
 
 ## 📱 Devices in use
 [![Samsung A10](https://img.shields.io/badge/Samsung%20A%2010-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/redmi-note-7/)
+
+## Reach to me
+[![Email](https://img.shields.io/badge/i%40xzr%2emoe-3873C4?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:firmanariwiranu@gmail.com)
