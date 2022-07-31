@@ -1,4 +1,4 @@
-# Hello World ! My Name M Firman Ariwiranu ☄.
+# Hello World ! My Name M Firman Ariwiranu 
 ##### You can also reach me at <a href="https://t.me/Casperboths">Telegram</a>
 
 ##  Stats And Languages
